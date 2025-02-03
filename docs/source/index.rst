@@ -21,4 +21,7 @@ Contents
    usage
    api
 
-2nd Change for Pull request
+
+Lumache hosts its documentation on Read the Docs.
+=======
+
