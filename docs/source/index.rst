@@ -1,4 +1,4 @@
-## CS 160 Exploring Computer Science (micropython)
+CS 160 Exploring Computer Science (micropython)
 ===================================
 
 .. note::
