@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'CS 160 - Exploring Computer Science'
+copyright = '2025, Mike Wilson'
+author = 'Mike Wilson'
 
 release = '0.1'
 version = '0.1.0'
